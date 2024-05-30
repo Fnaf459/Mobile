@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Привет, пустой фрагмент</string>
+
+    <string name="accepted_count">Принятые автомобили: %d</string>
+    <string name="rented_count">Арендованные автомобили: %d</string>
+    <string name="written_off_count">Списанные автомобили: %d</string>
+
+</resources>
